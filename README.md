@@ -69,3 +69,7 @@ Deploy the contract using the deploy button in Remix or your development environ
 Sujal Chandel
 
 @RookieP2004
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
